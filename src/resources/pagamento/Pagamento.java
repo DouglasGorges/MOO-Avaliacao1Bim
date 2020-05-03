@@ -1,7 +1,7 @@
 package resources.pagamento;
 
 import resources.cliente.Cliente;
-import resources.produtos.ProdutoImp;
+import resources.produtos.Produto;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -24,9 +24,9 @@ public class Pagamento extends FormaPagamentoImpl {
         return isPersisted(cliente.getCpf(), data, "Carteira Digital", valor);
     }
 
-    public Double calculaValorTotal(ArrayList<ProdutoImp> listaProduto){
+    public Double calculaValorTotal(ArrayList<Produto> listaProduto){
         Double valorTotal = 0.0;;
-        for(ProdutoImp produto : listaProduto) valorTotal += produto.getPrecoProduto();
+        for(Produto produto : listaProduto) valorTotal += produto.getPrecoProduto();
         return valorTotal;
     }
 

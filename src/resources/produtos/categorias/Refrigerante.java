@@ -1,8 +1,8 @@
 package resources.produtos.categorias;
 
-import resources.produtos.ProdutoImp;
+import resources.produtos.Produto;
 
-public class Refrigerante extends ProdutoImp {
+public class Refrigerante extends Produto {
     public Refrigerante() {
     }
 

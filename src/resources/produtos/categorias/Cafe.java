@@ -1,8 +1,8 @@
 package resources.produtos.categorias;
 
-import resources.produtos.ProdutoImp;
+import resources.produtos.Produto;
 
-public class Cafe extends ProdutoImp {
+public class Cafe extends Produto {
     public Cafe() {
     }
 
