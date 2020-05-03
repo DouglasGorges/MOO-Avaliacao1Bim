@@ -11,6 +11,7 @@ import java.time.LocalDateTime;
 import java.util.ArrayList;
 
 public class VendingMachine {
+    
     public static void main(String[] args) {
 
         ArrayList<Produto> listaProduto = new ArrayList<>();
