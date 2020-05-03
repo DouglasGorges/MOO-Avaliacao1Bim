@@ -2,7 +2,7 @@ package resources.pagamento;
 
 import resources.cliente.Cliente;
 
-public class Credito extends Cliente {
+public class Credito {
     private String operadoraCartao;
     private String numeroCartao;
     private Integer csvCartao;
@@ -11,13 +11,6 @@ public class Credito extends Cliente {
     }
 
     public Credito(String operadoraCartao, String numeroCartao, Integer csvCartao) {
-        this.operadoraCartao = operadoraCartao;
-        this.numeroCartao = numeroCartao;
-        this.csvCartao = csvCartao;
-    }
-
-    public Credito(String nome, String cpf, CarteiraDigital carteiraDigital, Debito debito, Credito credito, String operadoraCartao, String numeroCartao, Integer csvCartao) {
-        super(nome, cpf, carteiraDigital, debito, credito);
         this.operadoraCartao = operadoraCartao;
         this.numeroCartao = numeroCartao;
         this.csvCartao = csvCartao;

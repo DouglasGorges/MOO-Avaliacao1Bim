@@ -26,17 +26,67 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="VendingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.VendingMachine" />
+      <module name="Avaliacao1Bim" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VendingMachine" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1588367492857">
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1588518359964">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1588367492857" />
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1588518359964" />
     <state x="512" y="295" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588363277922">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="512" y="295" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1588363277922" />
+    <state width="1398" height="243" key="GridCell.Tab.0.bottom" timestamp="1588519205084">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588519205084" />
+    <state width="1398" height="243" key="GridCell.Tab.0.center" timestamp="1588519205083">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588519205083" />
+    <state width="1398" height="243" key="GridCell.Tab.0.left" timestamp="1588519205082">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588519205082" />
+    <state width="1398" height="243" key="GridCell.Tab.0.right" timestamp="1588519205083">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588519205083" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1588517042175">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588517042175" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1588517042173">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588517042173" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1588517042172">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588517042172" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1588517042174">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588517042174" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1588516673259">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1588516673259" />
   </component>
 </project>

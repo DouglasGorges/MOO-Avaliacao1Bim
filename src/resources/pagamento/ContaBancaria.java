@@ -2,7 +2,8 @@ package resources.pagamento;
 
 import resources.cliente.Cliente;
 
-public class ContaBancaria extends Cliente {
+public class ContaBancaria {
+
     private String numeroBanco;
     private String numeroAgencia;
     private String numeroConta;
@@ -39,4 +40,5 @@ public class ContaBancaria extends Cliente {
     public void setNumeroConta(String numeroConta) {
         this.numeroConta = numeroConta;
     }
+
 }

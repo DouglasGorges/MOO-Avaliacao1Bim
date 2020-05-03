@@ -2,7 +2,7 @@ package resources.pagamento;
 
 import resources.cliente.Cliente;
 
-public class CarteiraDigital extends Cliente {
+public class CarteiraDigital {
     private Integer identificadorCarteiraDigital;
     private String email;
 

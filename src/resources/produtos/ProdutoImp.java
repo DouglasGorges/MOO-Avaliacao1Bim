@@ -1,6 +1,6 @@
 package resources.produtos;
 
-public class ProdutoImp implements Produto {
+public class ProdutoImp {
     private Integer idProduto;
     private String descricaoProduto;
     private Double precoProduto;
